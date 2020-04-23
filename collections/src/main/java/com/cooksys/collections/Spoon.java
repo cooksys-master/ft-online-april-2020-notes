@@ -1,9 +1,9 @@
 package com.cooksys.collections;
 
 public class Spoon implements Silverware {
-	
+
 	private String type;
-	
+
 	public Spoon(String type) {
 		this.type = type;
 	}
@@ -12,12 +12,10 @@ public class Spoon implements Silverware {
 	public void carve() {
 		System.out.println("Spoon carving");
 	}
-	
+
 	public void scoop() {
 		System.out.println("Spoon scoop");
 	}
-	
-	
 
 	@Override
 	public int hashCode() {
@@ -43,7 +41,5 @@ public class Spoon implements Silverware {
 			return false;
 		return true;
 	}
-	
-	
 
 }

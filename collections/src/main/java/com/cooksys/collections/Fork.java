@@ -8,6 +8,4 @@ public class Fork implements Silverware {
 		System.out.println("Fork carving");
 	}
 
-	
-	
 }
