@@ -1,0 +1,18 @@
+{
+	"name": "Thor",
+	"health": 100,
+	"items": [
+		{
+			"type": "Sword",
+			"weight": 15
+		},
+		{
+			"type": "Shield",
+			"weight": 5
+		},
+		{
+			"type": "Health Potion",
+			"weight": 1
+		}
+	]
+}
