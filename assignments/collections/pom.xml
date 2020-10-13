@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<logback.version>1.1.7</logback.version>
 		<quickcheck.version>0.6.1</quickcheck.version>
 		<java.source.version>1.8</java.source.version>
